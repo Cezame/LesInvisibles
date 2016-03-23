@@ -1,0 +1,15 @@
+      body {
+      background: ;
+    }
+    
+    .navbar-inverse {
+      background-color: rgb(98, 24, 17);
+    }
+    
+    .navbar-inverse .navbar-nav>li>a {
+      color: rgb(255, 255, 255);
+    }
+    
+    .jumbotron {
+      color: rgb(4, 0, 48);
+      background-color: rgba(193, 45, 3, 0.2);
