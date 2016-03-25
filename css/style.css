@@ -1,15 +1,32 @@
       body {
-      background: ;
-    }
-    
-    .navbar-inverse {
-      background-color: rgb(98, 24, 17);
-    }
-    
-    .navbar-inverse .navbar-nav>li>a {
-      color: rgb(255, 255, 255);
-    }
-    
-    .jumbotron {
-      color: rgb(4, 0, 48);
-      background-color: rgba(193, 45, 3, 0.2);
+          background: ;
+      }
+      
+      .navbar-inverse {
+          background-color: rgb(98, 24, 17);
+      }
+      
+      .navbar-inverse .navbar-nav>li>a {
+          color: rgb(255, 255, 255);
+      }
+      
+      .container:nth-child(2) {
+          margin-top: 95px;
+          font-family: 'Lato', sans-serif;
+          background-color: floralwhite;
+      }
+      
+      h1 {
+          font-weight: 800;
+          font-size: 3em;
+          margin-top: 30px;
+      }
+      
+      p {
+          font-size: 1.9em;
+          margin-top: 50px;
+      }
+
+.nav navbar-nav {
+    margin-top: 50px;
+}
